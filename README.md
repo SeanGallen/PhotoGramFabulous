@@ -1,6 +1,6 @@
 # PhotGramFabulous
 
-[![Build Status](https://travis-ci.org/SeanGallen/PhotoGramFabulous.svg?branch=master)](https://travis-ci.org/SeanGallen/PhotoGramFabulous.svg?branch=master)
+[![Build Status](https://travis-ci.org/SeanGallen/PhotoGramFabulous.svg?branch=master)](https://travis-ci.org/SeanGallen/PhotoGramFabulous)
 
 Its a faker Instagram.
 
