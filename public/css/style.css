@@ -12,9 +12,16 @@ body {
 h1,h2 {
   position: fixed;
   font-weight: bold;
+  font-size: 2em;
   right: 180px;
-  bottom: 130px;
+  color: white;
+  font-family: 'Lobster', cursive;
 }
+
+h1 {
+  bottom: 160px;
+}
+
 h2 {
-  bottom: 110px;
+  bottom: 135px;
 }
