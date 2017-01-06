@@ -8,3 +8,13 @@ html, body {
 body {
   background-image: url(../images/photoMemory.jpg);
 }
+
+h1,h2 {
+  position: fixed;
+  font-weight: bold;
+  right: 180px;
+  bottom: 130px;
+}
+h2 {
+  bottom: 110px;
+}
