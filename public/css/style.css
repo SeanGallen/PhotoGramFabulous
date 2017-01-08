@@ -26,3 +26,8 @@ h1 {
 h2 {
   top: 450px;
 }
+
+#logIn {
+  position: relative;
+  float: right;
+}
