@@ -10,18 +10,19 @@ body {
 }
 
 h1,h2 {
-  position: fixed;
+  position: relative;
   font-weight: bold;
   font-size: 2em;
   right: 180px;
   color: white;
   font-family: 'Lobster', cursive;
+  left: 700px;
 }
 
 h1 {
-  bottom: 160px;
+  top: 475px;
 }
 
 h2 {
-  bottom: 135px;
+  top: 450px;
 }
