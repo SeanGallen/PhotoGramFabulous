@@ -6,3 +6,11 @@ Its a faker Instagram.
 
 I am using Mocah for testing.
 Express for my framework.
+
+Notes for later
+---------------
+
+* Add tests!
+* OAuth
+* Pick a database
+* Added photo API ~ [lambdal](https://lambdal.com/api-documentation)
