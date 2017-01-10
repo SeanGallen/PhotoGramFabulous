@@ -4,7 +4,7 @@
   "description": "Instragram faker",
   "main": "app.js",
   "scripts": {
-    "start": "node ./app.js",
+    "start": "nodemon -e css, js, json --watch app",
     "test": "mocha spec/"
   },
   "keywords": [
@@ -14,6 +14,7 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.14.0",
+    "nodemon": "^1.11.0",
     "pug": "^2.0.0-beta6"
   },
   "devDependencies": {
