@@ -4,7 +4,7 @@
   "description": "Instragram faker",
   "main": "app.js",
   "scripts": {
-    "start": "nodemon --watch app --watch views",
+    "start": "nodemon --watch app",
     "test": "mocha spec/"
   },
   "keywords": [
