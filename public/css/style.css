@@ -5,6 +5,10 @@ html, body {
   padding: 0;
 }
 
+body {
+  background: url(../images/photoMemory.jpg);
+}
+
 h1,h2 {
   position: relative;
   font-weight: bold;
@@ -28,13 +32,8 @@ h2 {
   float: right;
 }
 
-@media only screen and (max-width: 800px) {
+@media only screen and (max-width: 1121px) {
   body {
-    background-color: lightblue;
-  }
-}
-@media only screen and (min-width: 800px) {
-  body {
-    background-image: url(../images/photoMemory.jpg);
+    background-size: 70pc;
   }
 }
