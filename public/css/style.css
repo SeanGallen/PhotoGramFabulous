@@ -32,6 +32,11 @@ h2 {
   float: right;
 }
 
+video {
+  display: block;
+  margin: 0 auto;
+}
+
 @media only screen and (max-width: 1121px) {
   body {
     background-size: 70pc;
