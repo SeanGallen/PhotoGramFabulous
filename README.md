@@ -4,8 +4,11 @@
 
 Its a faker Instagram.
 
-I am using Mocah for testing.
+I am taking a Universal JavaScript approach.
+
 Express for my framework.
+
+React for my views and routes.
 
 
 Notes for later
@@ -15,3 +18,5 @@ Notes for later
 * OAuth
 * Pick a database
 * Added photo API ~ [lambdal](https://lambdal.com/api-documentation)
+* Attach Views/Routes using Rails.
+* Maybe add EJS vs Pug.
